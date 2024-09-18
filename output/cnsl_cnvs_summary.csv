@@ -1,0 +1,12 @@
+ethnicity,cnv_type,count
+A,None,4754
+A,cnv1_dup,62
+A,cnv2_dup,60
+A,cnv1_del,57
+A,cnv2_del,55
+B,None,2386
+B,cnv3_dup,131
+B,cnv3_del,26
+C,None,2386
+C,cnv4_dup,69
+C,cnv4_del,14
